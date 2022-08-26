@@ -5,4 +5,3 @@ def saludo():
 
 saludo()
 
-"gracias"
